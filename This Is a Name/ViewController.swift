@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var Player1ScoreLabel: UILabel!
     var player1Score = 0;
     //jsaldfjal;sdjf
+    //t;laksdjf
     
     @IBOutlet weak var Player2Char: UIImageView!
     @IBOutlet weak var Player2ScoreLabel: UILabel!
